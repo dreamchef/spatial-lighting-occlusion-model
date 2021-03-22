@@ -1,0 +1,2 @@
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\x64\Debug\Shader.exe
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\x64\Debug\Shader.pdb

@@ -1,0 +1,51 @@
+﻿  draw.cpp
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(39,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(51,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(52,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(53,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(221,20): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(221,80): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(222,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(222,82): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(227,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(230,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(235,18): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(236,39): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\draw.cpp(237,99): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Main.cpp
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\Main.cpp(178,35): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\Main.cpp(183,42): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\Main.cpp(331,5): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Daniel\Documents\GitHub\CS474-PEX3\Main.cpp(263,10): warning C4101: 'output': unreferenced local variable
+  PlyReader.cpp
+  scene.cpp
+  Generating Code...
+  Shader.vcxproj -> C:\Users\Daniel\Documents\GitHub\CS474-PEX3\x64\Debug\Shader.exe
