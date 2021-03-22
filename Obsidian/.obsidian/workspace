@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "8b1dad4d4f417d17",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c07006f26923ce0",
+        "type": "leaf",
+        "dimension": 40.38461538461539,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "fillScanLineFlat.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5d38dc3c718e87d8",
+        "type": "leaf",
+        "dimension": 59.61538461538461,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f4f65ba96493929",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d306802a589bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e596b203ab6adf18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e31c98aac683cf54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "196abb03142e3acf",
+    "type": "split",
+    "children": [
+      {
+        "id": "27ebb5223a45d72c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec03a03efdfbb8c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "fillScanLineFlat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "fillScanLineFlat.md",
+    "Scanline.md",
+    "draw.md",
+    "Untitled.md",
+    "setupScanLineX.md",
+    "setupRHRCameraMat.md",
+    "Vertex.md",
+    "normMult.md",
+    "thresh.md",
+    "matStack.md"
+  ]
+}

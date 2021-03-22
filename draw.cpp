@@ -215,7 +215,7 @@ mat4f setupRHRCameraMat(Scene& scene, int width, int height, mat4f& normalMat)
 	normalMat = normalMat.Identity();
 	result = result.Identity();
 
-	// set up transfrom Xsp
+	// set up transfrom Xsp (projection to screen)
 
 	Xsp.SetAll(0.0);
 	Xsp[0][0] = width / 2;	Xsp[0][1] = 0.0;		 Xsp[0][2] = 0.0;		Xsp[0][3] = width / 2;
@@ -223,7 +223,7 @@ mat4f setupRHRCameraMat(Scene& scene, int width, int height, mat4f& normalMat)
 	Xsp[2][0] = 0.0;		Xsp[2][1] = 0.0;		 Xsp[2][2] = 1.0;		Xsp[2][3] = 0.0;
 	Xsp[3][0] = 0.0;		Xsp[3][1] = 0.0;		 Xsp[3][2] = 0.0;		Xsp[3][3] = 1.0;
 
-	// set up transform Xpc
+	// set up transform Xpc (camera to projection)_
 	float aspect = width / height;
 	float N = 0.01f;
 	float F = 100.0f;
