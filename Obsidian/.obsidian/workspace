@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fillScanLineFlat.md",
+            "file": "setUpScanLineY.md",
             "mode": "source"
           }
         }
@@ -20,9 +20,11 @@
         "id": "5d38dc3c718e87d8",
         "type": "leaf",
         "dimension": 59.61538461538461,
+        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {}
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#variable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fillScanLineFlat.md",
+                "file": "setUpScanLineY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "fillScanLineFlat.md",
+    "setUpScanLineY.md",
     "Scanline.md",
     "draw.md",
-    "Untitled.md",
-    "setupScanLineX.md",
-    "setupRHRCameraMat.md",
-    "Vertex.md",
-    "normMult.md",
+    "sortTriangles.md",
     "thresh.md",
-    "matStack.md"
+    "normMult.md",
+    "lightDirections.md",
+    "zBuf.md",
+    "Vertex.md",
+    "clip.md"
   ]
 }

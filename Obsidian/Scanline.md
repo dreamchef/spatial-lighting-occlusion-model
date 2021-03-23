@@ -5,7 +5,8 @@ position
 - end
 - current
 
-deltas
+deltaX #question what are these?
+deltaY
 
 color
 - current

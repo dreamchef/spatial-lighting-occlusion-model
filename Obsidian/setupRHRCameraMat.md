@@ -5,4 +5,6 @@ Create matrices for
 - camera to projection
 - world to camera
 
+uses [[normMult]]
+
 **returns composition of all three**

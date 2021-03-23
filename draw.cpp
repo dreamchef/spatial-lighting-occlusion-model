@@ -465,7 +465,7 @@ void draw(int width, int height, HDC& img, Scene scene)
 
 		//	oneTwo.current.x += oneTwo.deltaX;
 		//	oneTwo.current.y += 1.0;
-		//	oneTwo.current.z += oneTwo.deltaZ;
+		//	oneTwo.current.z += oneTwo.deltaZ;s
 		//	oneTwo.currentColor += oneTwo.deltaColor;
 		//	oneTwo.currentNormal += oneTwo.deltaNormal;
 		//	oneTwo.currentNormal.Normalize();

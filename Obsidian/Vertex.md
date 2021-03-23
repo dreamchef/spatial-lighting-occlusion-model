@@ -1,5 +1,5 @@
 #struct
 
+- position (p)
 - normal (n)
-- c #question 
-- n #question
+- color (c)
