@@ -7,8 +7,8 @@
 #include <string.h>  
 #include <tchar.h>  
 #include <assert.h>
-#include "definitions.h"
-#include "draw.h"
+#include "headers/definitions.h"
+#include "headers/draw.h"
 
 
 #define WIDTH 800

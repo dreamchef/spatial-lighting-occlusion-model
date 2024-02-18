@@ -1,4 +1,4 @@
-#include "scene.h"
+#include "headers/scene.h"
 
 using namespace std;
 

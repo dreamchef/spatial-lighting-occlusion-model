@@ -1,3 +1,0 @@
-#method
-
-returns [[Scanline]]

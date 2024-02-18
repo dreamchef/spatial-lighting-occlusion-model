@@ -3,7 +3,7 @@
 #define FLAT
 //#define MODEL
 
-#include "draw.h"
+#include "headers/draw.h"
 
 struct Vertex {
 	vec4f p;

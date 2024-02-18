@@ -1,3 +1,0 @@
-#variable
-
-depth buffer
